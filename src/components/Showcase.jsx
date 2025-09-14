@@ -21,6 +21,8 @@ const Showcase = () => {
         <img className="showcase-image" src={burger} />
         <img className="showcase-image" src={icecream} />
       </div>
+
+      <div className="horizontal-line"></div>
     </div>
   );
 };
