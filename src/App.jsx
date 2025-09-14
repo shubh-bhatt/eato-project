@@ -1,5 +1,6 @@
 import Navbar from "./components/NavBar";
 import Showcase from "./components/Showcase";
+import TopRestaurants from "./components/TopRestaurants";
 
 const App = () => {
   return (
@@ -7,6 +8,7 @@ const App = () => {
       <div className="container">
         <Navbar />
         <Showcase />
+        <TopRestaurants />
       </div>
     </div>
   );

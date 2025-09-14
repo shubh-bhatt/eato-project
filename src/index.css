@@ -19,7 +19,7 @@
 }
 
 .navbar-root {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -49,25 +49,33 @@
 
 .showcase {
   margin-top: 10px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 .showcase-title {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   font-weight: bold;
   font-size: 20px;
 }
 
 .showcase-images {
+  margin-top: 20px;
   display: flex;
   justify-content: space-between;
 }
 
 .showcase-image {
   height: 150px;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
 }
 
 .showcase-image:hover {
   cursor: pointer;
+}
+
+.horizontal-line {
+  margin-top: 40px;
+  background-color: #e5e7eb;
+  height: 2px;
+  max-width: 0 auto;
 }
