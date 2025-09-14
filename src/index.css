@@ -24,6 +24,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
 }
 
 .logo img {
@@ -78,4 +79,79 @@
   background-color: #e5e7eb;
   height: 2px;
   max-width: 0 auto;
+}
+
+.top-res-container {
+  margin-top: 40px;
+}
+
+.top-res-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.top-restaurants {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}
+
+.top-res-card {
+  margin-top: 20px;
+  transition: transform 0.2s ease;
+}
+
+.top-res-card:hover {
+  cursor: pointer;
+  transform: scale(0.95);
+}
+
+.top-res-img-container {
+  height: auto;
+  width: auto;
+  /* border: 1px solid red; */
+}
+
+.top-res-img {
+  height: 150px;
+  width: 230px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.top-res-details {
+  padding: 10px 20px;
+  /* border: 1px solid blue; */
+}
+
+.top-res-name {
+  font-size: 14px;
+  font-weight: bold;
+  /* font-weight: 700; */
+}
+
+.top-res-rating {
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.dot {
+  height: 4px;
+  width: 4px;
+  margin: 0 8px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.top-res-delivery-time {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.top-res-area {
+  font-size: 14px;
 }

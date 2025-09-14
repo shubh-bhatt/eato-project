@@ -1,0 +1,71 @@
+export const topResData = [
+  {
+    id: "778196",
+    name: "Pizza Hut",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/e1848cfe-0bfc-4b81-88e0-a60ac1caf7f8_778196.JPG",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/e1848cfe-0bfc-4b81-88e0-a60ac1caf7f8_778196.JPG",
+    area: "Civil Lines",
+    rating: 4.3,
+    cuisines: ["Pizzas"],
+    cost_for_two: "₹350 for two",
+    delivery_time: "30-35 mins",
+    discount: "ITEMS AT ₹99",
+  },
+  {
+    id: "809929",
+    name: "Burger King",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/39c915c1-edaf-40b7-87dc-8d97bbe18ded_809929.jpg",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/39c915c1-edaf-40b7-87dc-8d97bbe18ded_809929.jpg",
+    area: "Agra",
+    rating: 4.4,
+    cuisines: ["Burgers", "American"],
+    cost_for_two: "₹350 for two",
+    delivery_time: "25-35 mins",
+    discount: "ITEMS AT ₹59",
+  },
+  {
+    id: "793181",
+    name: "KFC",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/46346eb4-739a-48c0-9518-d005bd977319_793181.JPG",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/46346eb4-739a-48c0-9518-d005bd977319_793181.JPG",
+    area: "Nagar Nigam",
+    rating: 4.2,
+    cuisines: ["Burgers", "Fast Food", "Rolls & Wraps"],
+    cost_for_two: "₹400 for two",
+    delivery_time: "20-25 mins",
+    discount: "ITEMS AT ₹99",
+  },
+  {
+    id: "854339",
+    name: "Dunkin' - Donuts & Coffee",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/30/3ed1ecac-b29c-4e70-9313-f7fea7ca522c_854339.jpg",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/7/30/3ed1ecac-b29c-4e70-9313-f7fea7ca522c_854339.jpg",
+    area: "Hariparwat Ward",
+    rating: 4.4,
+    cuisines: ["Desserts", "Cafe", "Bakery", "Beverages", "Fast Food"],
+    cost_for_two: "₹250 for two",
+    delivery_time: "20-25 mins",
+    discount: "40% OFF",
+  },
+  {
+    id: "289869",
+    name: "Pushpak Misthan Bhandar",
+    image_id: "xxolr2vqymwj3ukfq6nx",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xxolr2vqymwj3ukfq6nx",
+    area: "Mantola",
+    rating: 4.4,
+    cuisines: ["Sweets", "Street Food"],
+    cost_for_two: "₹350 for two",
+    delivery_time: "20-25 mins",
+    discount: "50% OFF UPTO ₹100",
+  },
+];
