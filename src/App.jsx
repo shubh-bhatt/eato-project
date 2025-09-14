@@ -1,11 +1,13 @@
-import Header from "./components/Header";
-import { Outlet } from "react-router-dom";
+import Navbar from "./components/NavBar";
+import Showcase from "./components/Showcase";
 
 const App = () => {
   return (
-    <div className="app">
-      <Header />
-      <Outlet />
+    <div className="layout">
+      <div className="container">
+        <Navbar />
+        <Showcase />
+      </div>
     </div>
   );
 };

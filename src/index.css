@@ -1,128 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
-.app {
-  margin: 0% 10%;
+.layout {
+  height: 100vh;
 }
 
-.header {
-  /* margin: 1% 10%; */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-root {
+  border: 2px solid red;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 2px solid black;
-  font-size: small;
+}
+
+.logo img {
+  height: 80px;
+}
+
+.logo img:hover {
+  cursor: pointer;
+}
+
+.navbar-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+  color: #52525b;
+  font-weight: 400;
+}
+
+.navbar-links span:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.showcase {
+  margin-top: 10px;
+  border: 2px solid red;
+}
+
+.showcase-title {
+  border: 1px solid black;
   font-weight: bold;
-  padding-left: 40px;
-  padding-right: 60px;
-}
-
-.logo {
-  width: 100px;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.nav-items > ul {
-  list-style-type: none;
-  display: flex;
-}
-
-.nav-items > ul > li {
-  padding: 10px;
-  margin: 10px;
-  cursor: pointer;
-}
-
-.search {
-  padding: 20px;
-  margin: 20px 0px;
-  background-color: red;
-}
-
-.restaurant-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  /* margin: 1% 10%; */
-}
-
-.restaurant-card {
-  background-color: #f0f0f0;
-  padding: 5px;
-  width: 250px;
-  height: 350px;
-  margin: 50px 50px;
-  border: 0px solid rgba(0, 0, 0, 0.1);
-}
-
-.restaurant-logo {
-  width: 100%;
-  height: 50%;
-  padding: 2px;
-  border-radius: 10px;
-  object-fit: cover;
-}
-
-.card-details {
-  padding: 5px;
-}
-
-.restaurant-card:hover {
-  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-}
-
-.filter-button {
-  padding: 10px;
-  border: none;
-  background-color: #0ea5e9;
   font-size: 20px;
 }
 
-.filter-button:hover {
-  cursor: pointer;
-}
-
-.filter-button:active {
-  scale: 0.95;
-}
-
-.login-button {
-  padding: 0px 20px;
-  border: none;
-  border-radius: 10px;
-}
-
-.login-button:hover {
-  cursor: pointer;
-}
-
-.login-button:active {
-  scale: 0.95;
-}
-
-.search {
+.showcase-images {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
 }
 
-.input-button {
-  width: 200px;
-  height: 30px;
-  padding: 2px 2px;
-  font-size: 20px;
-  margin-right: 10px;
+.showcase-image {
+  height: 150px;
+  border: 1px solid blue;
 }
 
-.search-button {
-  height: 30px;
-  padding-left: 5px;
-  padding-right: 5px;
+.showcase-image:hover {
+  cursor: pointer;
 }
