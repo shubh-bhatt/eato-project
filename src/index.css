@@ -185,13 +185,21 @@
 
 .res-delivery-card {
   width: 250px;
-  border: 1px solid blue;
+  height: 250px;
+  margin-top: 20px;
+  transition: transform 0.2s ease;
+  /* border: 1px solid blue; */
+}
+
+.res-delivery-card:hover {
+  cursor: pointer;
+  transform: scale(0.95);
 }
 
 .res-delivery-img-container {
   height: auto;
   width: auto;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .res-delivery-img {
@@ -199,4 +207,34 @@
   width: 250px;
   object-fit: cover;
   border-radius: 20px;
+}
+
+.res-delivery-details {
+  max-width: auto;
+  padding: 10px 10px;
+  /* border: 1px solid blue; */
+}
+
+.res-delivery-name {
+  font-weight: bold;
+}
+
+.res-delivery-rating {
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.res-delivery-time {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.res-delivery-cuisines {
+  font-size: 12px;
+}
+
+.res-delivery-area {
+  font-size: 14px;
 }
