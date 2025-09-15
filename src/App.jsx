@@ -2,6 +2,7 @@ import Navbar from "./components/NavBar";
 import Showcase from "./components/Showcase";
 import TopResContainer from "./components/TopResContainer";
 import ResDeliveryContainer from "./components/ResDeliveryContainer";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
         <TopResContainer />
         <ResDeliveryContainer />
       </div>
+      <Footer />
     </div>
   );
 };

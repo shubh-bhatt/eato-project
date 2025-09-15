@@ -12,7 +12,7 @@ const ResDeliveryContainer = () => {
           return <ResDeliveryCard key={res.id} res={res} />;
         })}
       </div>
-      <div className="horizontal-line"></div>
+      <div className="horizontal-line-last"></div>
     </div>
   );
 };

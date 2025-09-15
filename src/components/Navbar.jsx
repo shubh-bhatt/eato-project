@@ -3,6 +3,7 @@ import { useState } from "react";
 
 const Navbar = () => {
   const [isLogin, setIsLogin] = useState("Login");
+  const [cart, setCart] = useState(0);
 
   return (
     <div className="navbar-root">
@@ -20,6 +21,7 @@ const Navbar = () => {
         >
           {isLogin}
         </li>
+        <li>{cart} Cart</li>
       </ul>
     </div>
   );

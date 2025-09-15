@@ -1,5 +1,5 @@
 import TopResCard from "./TopResCard";
-import { topResData } from "../utils/TopResData";
+import { topResData } from "../utils/topResData";
 
 const TopResContainer = () => {
   return (
