@@ -21,6 +21,8 @@
 .navbar-root {
   /* border: 2px solid red; */
   height: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,14 +38,21 @@
 }
 
 .navbar-links {
+  list-style: none;
   display: flex;
   justify-content: space-between;
-  gap: 60px;
   color: #52525b;
   font-weight: 400;
+  gap: 60px;
 }
 
-.navbar-links span:hover {
+.navbar-links li {
+  border: 1px solid blue;
+  /* margin: 30px 40px; */
+  max-width: 50px;
+}
+
+.navbar-links li:hover {
   cursor: pointer;
   color: black;
 }
@@ -154,4 +163,13 @@
 
 .top-res-area {
   font-size: 14px;
+}
+
+.res-delivery-container {
+  margin-top: 40px;
+}
+
+.res-delivery-title {
+  font-weight: bold;
+  font-size: 20px;
 }
