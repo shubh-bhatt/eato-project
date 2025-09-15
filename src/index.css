@@ -173,3 +173,30 @@
   font-weight: bold;
   font-size: 20px;
 }
+
+.res-delivery {
+  margin-top: 2cqb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.res-delivery-card {
+  width: 250px;
+  border: 1px solid blue;
+}
+
+.res-delivery-img-container {
+  height: auto;
+  width: auto;
+  border: 1px solid red;
+}
+
+.res-delivery-img {
+  height: 150px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 20px;
+}

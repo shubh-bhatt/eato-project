@@ -1,4 +1,44 @@
-export const restaurantData = [
+export const restaurantDelivery = [
+  {
+    id: "629411",
+    name: "Dum Safar Biryani",
+    image_id: "p3uscqxnshkcafzsqv38",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/p3uscqxnshkcafzsqv38",
+    area: "Civil Lines",
+    rating: 4.6,
+    cuisines: ["Biryani", "Kebabs", "North Indian", "Barbecue"],
+    cost_for_two: "₹500 for two",
+    delivery_time: "25-30 mins",
+    discount: "ITEMS AT ₹99",
+  },
+  {
+    id: "499779",
+    name: "Grameen Kulfi",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
+    area: "Civil Lines",
+    rating: 4.8,
+    cuisines: ["Ice Cream", "Desserts"],
+    cost_for_two: "₹120 for two",
+    delivery_time: "20-25 mins",
+    discount: "ITEMS AT ₹109",
+  },
+  {
+    id: "269557",
+    name: "Yadav Dhaba Purana",
+    image_id: "sbd65xunjpasnxdq0dgi",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/sbd65xunjpasnxdq0dgi",
+    area: "Civil Lines",
+    rating: 4.2,
+    cuisines: ["North Indian"],
+    cost_for_two: "₹250 for two",
+    delivery_time: "20-25 mins",
+    discount: "ITEMS AT ₹79",
+  },
   {
     id: "778196",
     name: "Pizza Hut",
@@ -101,46 +141,7 @@ export const restaurantData = [
     delivery_time: "35-40 mins",
     discount: "ITEMS AT ₹79",
   },
-  {
-    id: "629411",
-    name: "Dum Safar Biryani",
-    image_id: "p3uscqxnshkcafzsqv38",
-    image_url:
-      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/p3uscqxnshkcafzsqv38",
-    area: "Civil Lines",
-    rating: 4.6,
-    cuisines: ["Biryani", "Kebabs", "North Indian", "Barbecue"],
-    cost_for_two: "₹500 for two",
-    delivery_time: "25-30 mins",
-    discount: "ITEMS AT ₹99",
-  },
-  {
-    id: "499779",
-    name: "Grameen Kulfi",
-    image_id:
-      "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
-    image_url:
-      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
-    area: "Civil Lines",
-    rating: 4.8,
-    cuisines: ["Ice Cream", "Desserts"],
-    cost_for_two: "₹120 for two",
-    delivery_time: "20-25 mins",
-    discount: "ITEMS AT ₹109",
-  },
-  {
-    id: "269557",
-    name: "Yadav Dhaba Purana",
-    image_id: "sbd65xunjpasnxdq0dgi",
-    image_url:
-      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/sbd65xunjpasnxdq0dgi",
-    area: "Civil Lines",
-    rating: 4.2,
-    cuisines: ["North Indian"],
-    cost_for_two: "₹250 for two",
-    delivery_time: "20-25 mins",
-    discount: "ITEMS AT ₹79",
-  },
+
   {
     id: "74334",
     name: "Chokho Jeeman Marwari Jain Bhojanalya",
@@ -325,5 +326,19 @@ export const restaurantData = [
     cost_for_two: "₹400 for two",
     delivery_time: "30-35 mins",
     discount: "ITEMS AT ₹89",
+  },
+  {
+    id: "499779",
+    name: "Grameen Kulfi",
+    image_id:
+      "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
+    image_url:
+      "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/8353032c-6f8d-4ed2-ad92-16463cd4dca5_499779.jpg",
+    area: "Civil Lines",
+    rating: 4.8,
+    cuisines: ["Ice Cream", "Desserts"],
+    cost_for_two: "₹120 for two",
+    delivery_time: "20-25 mins",
+    discount: "ITEMS AT ₹109",
   },
 ];
