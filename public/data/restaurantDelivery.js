@@ -1,4 +1,4 @@
-const restaurantDelivery = [
+[
   {
     id: "629411",
     name: "Dum Safar Biryani",
@@ -450,7 +450,3 @@ const restaurantDelivery = [
     discount: null,
   },
 ];
-
-export default function handler(req, res) {
-  res.status(200).json(restaurantDelivery);
-}
