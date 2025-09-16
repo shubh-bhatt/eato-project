@@ -450,3 +450,6 @@ export const restaurantDelivery = [
     discount: null,
   },
 ];
+
+const data = JSON.stringify(restaurantDelivery, null, 2);
+console.log(data);
