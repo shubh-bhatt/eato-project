@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 
 const ResDeliveryContainer = () => {
   const [restaurantDelivery, setRestaurantDelivery] = useState([]);
+  const [restaurantMenu, setRestaurantMenu] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
