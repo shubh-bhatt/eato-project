@@ -108,18 +108,6 @@
     "discount": "60% OFF UPTO ₹120"
   },
   {
-    "id": "74334",
-    "name": "Chokho Jeeman Marwari Jain Bhojanalya",
-    "image_id": "ng2krdrhpvsvrfqarcwj",
-    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ng2krdrhpvsvrfqarcwj",
-    "area": "Civil Lines",
-    "rating": 4.4,
-    "cuisines": ["North Indian", "Thalis"],
-    "cost_for_two": "₹300 for two",
-    "delivery_time": "25-30 mins",
-    "discount": null
-  },
-  {
     "id": "102953",
     "name": "GMB - Gopika Sweets & Restaurant",
     "image_id": "l6iqlfn5uwesenzcm0xk",
