@@ -4,7 +4,7 @@
     "name": "Dum Safar Biryani",
     "rating": 4.6,
     "area": "Civil Lines",
-    "cost_for_two": "₹500 for two",
+    "cost_for_two": "₹500",
     "description": "C/o BARBEQUE NATION -Ashok Cosmos Mall, 3rd, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
     "cuisines": [
       {
@@ -49,7 +49,7 @@
     "name": "Grameen Kulfi",
     "rating": 4.8,
     "area": "Civil Lines",
-    "cost_for_two": "₹120 for two",
+    "cost_for_two": "₹120",
     "description": "Shop No G-3, Block 94/2, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
     "cuisines": [
       {
@@ -94,7 +94,7 @@
     "name": "Yadav Dhaba Purana",
     "rating": 4.2,
     "area": "Civil Lines",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "Delhi Gate Raja Ki Mandi Station Road Agra , District - Agra, State - Uttar Pradesh",
     "cuisines": [
       {
@@ -229,7 +229,7 @@
     "name": "KFC",
     "rating": 4.2,
     "area": "Nagar Nigam",
-    "cost_for_two": "₹400 for two",
+    "cost_for_two": "₹400",
     "description": "K.F.C Part Swadeshi Beema Nagar, Hariparwat, Agra, Nagar Nigam Food Safety Zone 03, Agra, Uttar Pradesh-282002",
     "cuisines": [
       {
@@ -274,7 +274,7 @@
     "name": "Dunkin' - Donuts & Coffee",
     "rating": 4.4,
     "area": "Hariparwat Ward",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "Ground Floor at LG-1,Part of Premises No-15,Corp, No-2/27,Swadeshi Beema Nagar,Civil Lines,Hariparwat Ward,Agra, Nagar Nigam Food Safety Zone 08, Agra, Uttar Pradesh-282002",
     "cuisines": [
       {
@@ -319,7 +319,7 @@
     "name": "Pushpak Misthan Bhandar",
     "rating": 4.4,
     "area": "Mantola",
-    "cost_for_two": "₹350 for two",
+    "cost_for_two": "₹350",
     "description": "Pushpak Misthan Bhandar is a popular sweets and street food restaurant.",
     "cuisines": [
       {
@@ -364,7 +364,7 @@
     "name": "Cheesecake & co.",
     "rating": 4.7,
     "area": "SHEEL VIHAR COLONY",
-    "cost_for_two": "₹300 for two",
+    "cost_for_two": "₹300",
     "description": "Cheesecake & co. is a dessert and bakery shop.",
     "cuisines": [
       {
@@ -409,7 +409,7 @@
     "name": "GMB - Gopika Sweets & Restaurant",
     "rating": 4.5,
     "area": "Civil Lines",
-    "cost_for_two": "₹350 for two",
+    "cost_for_two": "₹350",
     "description": "GMB - Gopika Sweets & Restaurant is a popular place for sweets and North Indian cuisine.",
     "cuisines": [
       {
@@ -454,7 +454,7 @@
     "name": "Subway",
     "rating": 4.3,
     "area": "Church Road",
-    "cost_for_two": "₹350 for two",
+    "cost_for_two": "₹350",
     "description": "Subway is an American multinational fast food restaurant franchise that primarily sells submarine sandwiches (subs), wraps, salads, and beverages.",
     "cuisines": [
       {
@@ -499,7 +499,7 @@
     "name": "La Pino'z Pizza",
     "rating": 4.3,
     "area": "Sanjay Place",
-    "cost_for_two": "₹300 for two",
+    "cost_for_two": "₹300",
     "description": "Pizzas, Pastas",
     "cuisines": [
       {
@@ -544,7 +544,7 @@
     "name": "McDonald's",
     "rating": 4.3,
     "area": "Tajganj",
-    "cost_for_two": "₹400 for two",
+    "cost_for_two": "₹400",
     "description": "Burgers, Fast Food",
     "cuisines": [
       {
@@ -589,7 +589,7 @@
     "name": "Theobroma",
     "rating": 4.5,
     "area": "Church Road",
-    "cost_for_two": "₹400 for two",
+    "cost_for_two": "₹400",
     "description": "Theobroma is a renowned patisserie and bakery chain celebrated for its exquisite cakes, pastries, and artisanal desserts, offering a delightful array of gourmet treats.",
     "cuisines": [
       {
@@ -634,7 +634,7 @@
     "name": "Baskin Robbins - Ice Cream Desserts",
     "rating": 4.4,
     "area": "Civil Lines",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "Baskin Robbins is a world-famous ice cream chain offering 31 flavors and a variety of frozen desserts.",
     "cuisines": [
       {
@@ -679,7 +679,7 @@
     "name": "The Belgian Waffle Co.",
     "rating": 4.7,
     "area": "Civil Lines",
-    "cost_for_two": "₹200 for two",
+    "cost_for_two": "₹200",
     "description": "Waffle, Desserts",
     "cuisines": [
       {
@@ -724,7 +724,7 @@
     "name": "Om Sai Ram Bhojnalaya",
     "rating": 3.9,
     "area": "Khandari",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "Indian, Biryani",
     "cuisines": [
       {
@@ -769,7 +769,7 @@
     "name": "Burger Farm",
     "rating": 4.2,
     "area": "Tajganj",
-    "cost_for_two": "₹300 for two",
+    "cost_for_two": "₹300",
     "description": "Burger Farm is a vibrant eatery offering a range of juicy burgers, crispy munchies, refreshing beverages, and decadent desserts in a casual setting.",
     "cuisines": [
       {
@@ -814,7 +814,7 @@
     "name": "Little Italy",
     "rating": 4.4,
     "area": "Rakabganj, Agra",
-    "cost_for_two": "₹1500 for two",
+    "cost_for_two": "₹1500",
     "description": "Italian, Pizzas",
     "cuisines": [
       {
@@ -859,7 +859,7 @@
     "name": "FNP Cakes By Ferns N Petals",
     "rating": 4.5,
     "area": "Rakabganj, Agra",
-    "cost_for_two": "₹450 for two",
+    "cost_for_two": "₹450",
     "description": "Desserts, Bakery",
     "cuisines": [
       {
@@ -904,7 +904,7 @@
     "name": "Faasos - Wraps, Rolls & Shawarma",
     "rating": 4.5,
     "area": "Civil Lines",
-    "cost_for_two": "₹200 for two",
+    "cost_for_two": "₹200",
     "description": "Faasos is a popular fast-food chain specializing in innovative wraps, rolls, and shawarmas, delivering convenient and flavorful meals perfect for on-the-go dining.",
     "cuisines": [
       {
@@ -949,7 +949,7 @@
     "name": "Chimmanlal Poori Wale",
     "rating": 4.3,
     "area": "Mantola",
-    "cost_for_two": "₹150 for two",
+    "cost_for_two": "₹150",
     "description": "Chimmanlal Poori Wale is a traditional eatery renowned for its authentic Indian breakfast items like puris, bedai, and sabzi, serving hearty and flavorful vegetarian meals.",
     "cuisines": [
       {
@@ -994,7 +994,7 @@
     "name": "Spice hut",
     "rating": 3.7,
     "area": "Tajganj",
-    "cost_for_two": "₹500 for two",
+    "cost_for_two": "₹500",
     "description": "Spice Hut is a cozy eatery specializing in flavorful Indian cuisine, offering a range of non-vegetarian delights like curries, pizzas, and tawa specialties for family dining.",
     "cuisines": [
       {
@@ -1039,7 +1039,7 @@
     "name": "Al Madina Restaurant",
     "rating": 4.0,
     "area": "Tajganj",
-    "cost_for_two": "₹400 for two",
+    "cost_for_two": "₹400",
     "description": "Al Madina Restaurant serves authentic Indian and Mughlai dishes in a welcoming atmosphere, perfect for families seeking traditional flavors.",
     "cuisines": [
       {
@@ -1084,7 +1084,7 @@
     "name": "South Kitchen",
     "rating": 5,
     "area": "Civil Lines",
-    "cost_for_two": "₹600 for two",
+    "cost_for_two": "₹600",
     "description": "B-316, Ram Raghu Ananda Phase-2, Sikandra ,WARD NO. 59 SIKANDRA,Nagar Nigam Food Safety Zone 05,Agra,Uttar Pradesh-282007",
     "cuisines": [
       {
@@ -1129,7 +1129,7 @@
     "name": "Pushpak Mishthan Bhandar Sweets And Snacks",
     "rating": 4.3,
     "area": "M.G Road",
-    "cost_for_two": "₹260 for two",
+    "cost_for_two": "₹260",
     "description": "M/S SHAKTI FOODS, 11/139, GUDRI SOOT  M.G. ROAD AGRA , WARD NO. 18 BAGH  MUJAFFAR KHAN, Nagar Nigam Food  Safety Zone 10, Agra, Uttar Pradesh -  282003",
     "cuisines": [
       {
@@ -1174,7 +1174,7 @@
     "name": "House Of Chefs",
     "rating": 4.2,
     "area": "Civil Lines",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "North Indian, Italian",
     "cuisines": [
       {
@@ -1219,7 +1219,7 @@
     "name": "Manoj Restaurant",
     "rating": 4.3,
     "area": "Mantola",
-    "cost_for_two": "₹250 for two",
+    "cost_for_two": "₹250",
     "description": "South Indian, North Indian",
     "cuisines": [
       {
