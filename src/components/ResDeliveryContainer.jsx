@@ -1,5 +1,5 @@
 import ResDeliveryCard from "./ResDeliveryCard";
-import { restaurantDelivery } from "../utils/restaurantDelivery";
+import { restaurantDelivery } from "../../api/restaurantDelivery";
 
 const ResDeliveryContainer = () => {
   return (
