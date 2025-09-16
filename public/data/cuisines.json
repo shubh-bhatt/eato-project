@@ -1,5 +1,6 @@
 [
   {
+    "id": "629411",
     "name": "Dum Safar Biryani",
     "rating": 4.6,
     "area": "Civil Lines",
@@ -44,6 +45,7 @@
     ]
   },
   {
+    "id": "499779",
     "name": "Grameen Kulfi",
     "rating": 4.8,
     "area": "Civil Lines",
@@ -88,6 +90,7 @@
     ]
   },
   {
+    "id": "269557",
     "name": "Yadav Dhaba Purana",
     "rating": 4.2,
     "area": "Civil Lines",
@@ -132,6 +135,7 @@
     ]
   },
   {
+    "id": "778196",
     "name": "Pizza Hut",
     "rating": 4.3,
     "area": "Civil Lines",
@@ -176,6 +180,7 @@
     ]
   },
   {
+    "id": "809929",
     "name": "Burger King",
     "rating": 4.3,
     "area": "Tajganj",
@@ -220,6 +225,7 @@
     ]
   },
   {
+    "id": "793181",
     "name": "KFC",
     "rating": 4.2,
     "area": "Nagar Nigam",
@@ -264,6 +270,7 @@
     ]
   },
   {
+    "id": "854339",
     "name": "Dunkin' - Donuts & Coffee",
     "rating": 4.4,
     "area": "Hariparwat Ward",
@@ -308,6 +315,7 @@
     ]
   },
   {
+    "id": "289869",
     "name": "Pushpak Misthan Bhandar",
     "rating": 4.4,
     "area": "Mantola",
@@ -352,6 +360,7 @@
     ]
   },
   {
+    "id": "695597",
     "name": "Cheesecake & co.",
     "rating": 4.7,
     "area": "SHEEL VIHAR COLONY",
@@ -396,6 +405,7 @@
     ]
   },
   {
+    "id": "102953",
     "name": "GMB - Gopika Sweets & Restaurant",
     "rating": 4.5,
     "area": "Civil Lines",
@@ -440,6 +450,7 @@
     ]
   },
   {
+    "id": "74826",
     "name": "Subway",
     "rating": 4.3,
     "area": "Church Road",
@@ -484,6 +495,97 @@
     ]
   },
   {
+    "id": "299472",
+    "name": "La Pino'z Pizza",
+    "rating": 4.3,
+    "area": "Sanjay Place",
+    "cost_for_two": "₹300 for two",
+    "description": "Pizzas, Pastas",
+    "cuisines": [
+      {
+        "name": "Mushroom, Olives & Cheese Quesadillas",
+        "description": "Soft Shell Tortilla Stuffed with Mushroom, Olives & Cheese.",
+        "price": "₹88",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/26/78c4f0e0-9f2d-401b-998c-d83f13d75953_0924c005-00a7-42b6-bf8a-d8a5e2229f53.jpg"
+      },
+      {
+        "name": "Paneer Tikka Butter Masala Pizza",
+        "description": "An indian Speciality on a La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika.",
+        "price": "₹263",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/2dc4bd3e-9f94-4742-9b59-937197d6a6d7_61007401-9715-44d2-b5fb-c3327c42db49.JPG"
+      },
+      {
+        "name": "La Pino'z Paneer Pizza",
+        "description": "A La Pinoz special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip.",
+        "price": "₹286",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/bed77661-962f-4575-9b6e-a9cb782a4511_29273fa9-f43b-4396-b597-15452136733a.JPG"
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "A classic cheesy Margherita. Cant go wrong.",
+        "price": "₹134",
+        "rating": "4.3",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/26/28e1f48e-1c01-46df-bb4a-8bd530143174_2a081784-03e5-417f-a1fa-8939c0ea61e4.JPG"
+      },
+      {
+        "name": "Country Side Pizza",
+        "description": "A country side mood goes well with capsicum, Jalapeno & Olives.",
+        "price": "₹196",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/26/efddd768-8fc9-4e30-9103-8e31edf86287_6c9fe5e7-f0fc-4afb-8790-05be36a64c5a.JPG"
+      }
+    ]
+  },
+  {
+    "id": "254105",
+    "name": "McDonald's",
+    "rating": 4.3,
+    "area": "Tajganj",
+    "cost_for_two": "₹400 for two",
+    "description": "Burgers, Fast Food",
+    "cuisines": [
+      {
+        "name": "McAloo Tikki Burger®",
+        "description": "A tikki made with potatoes, peas and some Indian spices. Topped with ketchup, tomatoes and onions.",
+        "price": "₹65",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/5629402f-5b23-410a-8354-1b831131e505_108f029b-8e1d-4078-a40a-b30a6c01e67e.png"
+      },
+      {
+        "name": "McVeggie® Burger",
+        "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted buns.",
+        "price": "₹131",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/46e4811a-0a7c-4735-97e3-0d5885f6a9f4_b986e245-5386-455b-8025-a1c6a6f194c5.png"
+      },
+      {
+        "name": "McSpicy® Paneer",
+        "description": "Rich and filling cottage cheese patty coated in spicy, crispy batter, topped with a creamy sauce and shredded lettuce will have you craving for more.",
+        "price": "₹193",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/2/6/6f72d45c-0b73-4554-ba5f-b52b3149e6d0_280f5551-789a-4c48-831d-d40b72a0c64b.png"
+      },
+      {
+        "name": "Big Spicy Paneer Wrap",
+        "description": "Rich and filling cottage cheese patty coated in spicy, crispy batter, topped with a creamy sauce, wrapped with lettuce, onions, tomatoes and cheese.",
+        "price": "₹220",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/2/6/2a18a000-652b-41de-848e-e2e5aa2566fe_9ad2cd33-3630-4aac-b08b-34b311fc8d13.png_compressed"
+      },
+      {
+        "name": "Veg Maharaja Mac",
+        "description": "Two grilled veg patties with onions, jalapenos, cheese, tomatoes, lettuce and delicious sauces.",
+        "price": "₹220",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/b086e41b-410a-4a6c-9490-0e1d87e07b46_670c5384-a1db-496a-8b1e-61b96a92823a.png"
+      }
+    ]
+  },
+  {
+    "id": "774091",
     "name": "Theobroma",
     "rating": 4.5,
     "area": "Church Road",
@@ -528,6 +630,7 @@
     ]
   },
   {
+    "id": "439068",
     "name": "Baskin Robbins - Ice Cream Desserts",
     "rating": 4.4,
     "area": "Civil Lines",
@@ -572,6 +675,7 @@
     ]
   },
   {
+    "id": "432387",
     "name": "The Belgian Waffle Co.",
     "rating": 4.7,
     "area": "Civil Lines",
@@ -616,6 +720,7 @@
     ]
   },
   {
+    "id": "134461",
     "name": "Om Sai Ram Bhojnalaya",
     "rating": 3.9,
     "area": "Khandari",
@@ -660,6 +765,7 @@
     ]
   },
   {
+    "id": "789747",
     "name": "Burger Farm",
     "rating": 4.2,
     "area": "Tajganj",
@@ -704,6 +810,7 @@
     ]
   },
   {
+    "id": "780599",
     "name": "Little Italy",
     "rating": 4.4,
     "area": "Rakabganj, Agra",
@@ -748,6 +855,7 @@
     ]
   },
   {
+    "id": "737539",
     "name": "FNP Cakes By Ferns N Petals",
     "rating": 4.5,
     "area": "Rakabganj, Agra",
@@ -792,6 +900,7 @@
     ]
   },
   {
+    "id": "361090",
     "name": "Faasos - Wraps, Rolls & Shawarma",
     "rating": 4.5,
     "area": "Civil Lines",
@@ -836,6 +945,7 @@
     ]
   },
   {
+    "id": "252910",
     "name": "Chimmanlal Poori Wale",
     "rating": 4.3,
     "area": "Mantola",
@@ -880,6 +990,7 @@
     ]
   },
   {
+    "id": "571409",
     "name": "Spice hut",
     "rating": 3.7,
     "area": "Tajganj",
@@ -924,6 +1035,7 @@
     ]
   },
   {
+    "id": "774007",
     "name": "Al Madina Restaurant",
     "rating": 4.0,
     "area": "Tajganj",
@@ -968,6 +1080,7 @@
     ]
   },
   {
+    "id": "1019707",
     "name": "South Kitchen",
     "rating": 5,
     "area": "Civil Lines",
@@ -1012,6 +1125,7 @@
     ]
   },
   {
+    "id": "746959",
     "name": "Pushpak Mishthan Bhandar Sweets And Snacks",
     "rating": 4.3,
     "area": "M.G Road",
@@ -1056,6 +1170,7 @@
     ]
   },
   {
+    "id": "854482",
     "name": "House Of Chefs",
     "rating": 4.2,
     "area": "Civil Lines",
@@ -1100,6 +1215,7 @@
     ]
   },
   {
+    "id": "392498",
     "name": "Manoj Restaurant",
     "rating": 4.3,
     "area": "Mantola",
