@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { RATING_SVG2 } from "../utils/constants";
+import RestaurantMenuList from "./RestaurantMenuList";
 
 const RestaurantMenu = () => {
   const { id } = useParams();
   const [restaurantMenu, setRestaurantMenu] = useState([]);
 
   const { area, cost_for_two, description, name, rating } = restaurantMenu;
-  // console.log(restaurantMenu.cuisines);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -21,8 +21,6 @@ const RestaurantMenu = () => {
 
     fetchData();
   }, []);
-
-  console.log(restaurantMenu);
 
   return (
     <div className="restaurant-menu-container">
@@ -70,6 +68,8 @@ const RestaurantMenu = () => {
         </div>
       </div>
       <div className="horizontal-line"></div>
+
+      <RestaurantMenuList restaurantMenu={restaurantMenu} />
     </div>
   );
 };

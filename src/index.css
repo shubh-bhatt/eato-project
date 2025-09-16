@@ -394,8 +394,8 @@
   margin-top: 50px;
   padding-left: 150px;
   padding-right: 150px;
-  height: 500px;
-  border: 1px solid blue;
+  height: auto;
+  /* border: 1px solid blue; */
 }
 
 .restaurant-menu-title h1 {
@@ -483,4 +483,64 @@
 
 .time-delivery-time {
   padding-top: 3px;
+}
+
+.recommended-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 55px;
+}
+
+.recommended-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+  border-radius: 12px;
+  border: 1px solid rgb(166, 166, 169);
+}
+
+.recommended-list-details-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.recommended-list-desc {
+  padding: 10px 10px;
+}
+
+.recommended-list-image {
+  position: relative;
+  padding-top: 10px;
+  padding-right: 10px;
+  /* border: 1px solid blue; */
+}
+
+.recommended-list-image img {
+  height: 144px;
+  width: 200px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.recommended-list-image button {
+  position: absolute;
+  left: 25%;
+  right: 30%;
+  bottom: 0;
+  transform: translate(0%, 50%);
+  border-radius: 5px;
+  padding: 5px 5px;
+  font-weight: bold;
+  color: green;
+  width: 80px;
+  background-color: white;
+  border: 1px solid rgb(166, 166, 169);
+}
+
+.recommended-list-image button:active {
+  scale: 0.95;
 }
