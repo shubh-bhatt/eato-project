@@ -1,4 +1,4 @@
-[
+export const restaurantDelivery = [
   {
     id: "629411",
     name: "Dum Safar Biryani",

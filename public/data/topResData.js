@@ -1,4 +1,4 @@
-[
+export const topResData = [
   {
     id: "778196",
     name: "Pizza Hut",
