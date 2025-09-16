@@ -346,30 +346,6 @@
     "discount": "ITEMS AT ₹29"
   },
   {
-    "id": "489170",
-    "name": "Mama's Parantha",
-    "image_id": "yobcqtxrcjwm8ooyvaby",
-    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yobcqtxrcjwm8ooyvaby",
-    "area": "Tajganj",
-    "rating": 4.2,
-    "cuisines": ["Indian", "Fast Food", "Snacks"],
-    "cost_for_two": "₹250 for two",
-    "delivery_time": "45-50 mins",
-    "discount": "ITEMS AT ₹99"
-  },
-  {
-    "id": "963339",
-    "name": "Gopaldas Pethe Wale",
-    "image_id": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/26/aad26739-85a7-414c-b6be-55d4dcfea5d5_963339.jpg",
-    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/26/aad26739-85a7-414c-b6be-55d4dcfea5d5_963339.jpg",
-    "area": "Mantola",
-    "rating": 4.6,
-    "cuisines": ["Sweets"],
-    "cost_for_two": "₹350 for two",
-    "delivery_time": "25-35 mins",
-    "discount": "10% OFF UPTO ₹40"
-  },
-  {
     "id": "392498",
     "name": "Manoj Restaurant",
     "image_id": "yetz5zubre3uzrmfu60j",
@@ -380,17 +356,5 @@
     "cost_for_two": "₹250 for two",
     "delivery_time": "25-30 mins",
     "discount": "ITEMS AT ₹89"
-  },
-  {
-    "id": "1116655",
-    "name": "Thaliwood",
-    "image_id": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/4739e15d-b8a1-4791-b2c0-35593c9cb913_1116655.jpg",
-    "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/4739e15d-b8a1-4791-b2c0-35593c9cb913_1116655.jpg",
-    "area": "K P Hospital",
-    "rating": 4.5,
-    "cuisines": ["Biryani", "Thalis", "Indian", "Beverages", "Sweets"],
-    "cost_for_two": "₹400 for two",
-    "delivery_time": "40-45 mins",
-    "discount": null
   }
 ]

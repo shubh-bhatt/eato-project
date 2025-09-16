@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Dum Safar Biryani",
+    "rating": 4.6,
+    "area": "Civil Lines",
+    "cost_for_two": "₹500 for two",
+    "description": "C/o BARBEQUE NATION -Ashok Cosmos Mall, 3rd, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "cuisines": [
+      {
+        "name": "Paneer Tikka Dum Biryani (Serves 2-3)",
+        "description": "Serves 1 | Paneer Tikka Biryani + Veg Raita + Ghee + a rich garnish of Gourmet Nuts and Fried Onions+ 4 Angoori Gulab Jamun. Share stories over fire grilled Paneer Tikka layered with aromatic long grain Basmati rice and cooked in the Hyderabadi Dum Biryani Style. Kcal - 3151 Contains - Milk, Nuts & Gluten",
+        "price": 68900,
+        "rating": "Not available",
+        "image_url": "cotxt9wkwi1bliowctds"
+      },
+      {
+        "name": "Veg Dum Biryani - Bachelor",
+        "description": "Serves 1 | Flavorful Veg Dum Biryani cooked with aromatic spices, served with refreshing raita.",
+        "price": 11900,
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/19/480c867b-9cc7-4c9d-84e5-d4d12f6a0315_b76551b3-68c8-4b57-886d-38eca7bac0a5.png"
+      },
+      {
+        "name": "Paneer Tikka Biryani Bowl",
+        "description": "Serves 1 | A flavorful combination of aromatic Biryani rice and Paneer Tikka (4 Pcs). Served with raita and salan, this bowl offers a perfect balance of taste and indulgence.",
+        "price": 25900,
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/1/91667798-8d72-4d30-a64d-732fbf511bb0_cc456bfc-cac7-4bff-b1fc-682a2d65c7c8.jpg"
+      },
+      {
+        "name": "Paneer Tikka Dum Biryani (Serves 1-2)",
+        "description": "Serves 1 | Paneer Tikka Biryani+Veg Raita + Ghee + a rich garnish of Gourmet Nuts and Fried Onions + 4 Angoori Gulab Jamun . Fire grilled Paneer Tikka layered with aromatic long grain Basmati rice and cooked in the Hyderabadi Dum Biryani Style, a combination of two of India’s classic favorite dishes. Kcal - 1766 Contains - Milk, Nuts & Gluten",
+        "price": 42900,
+        "rating": "4.1",
+        "image_url": "pkhkicc5kjcxy1nmu8fj"
+      },
+      {
+        "name": "Veg Dum Biryani (Serves 1-2)",
+        "description": "Serves 1 | Served with 4 Angoori Gulab Jamun + Veg Raita + authentic Ghee + a rich garnish of Gourmet Nuts and Fried Onions. For all the Barbecue lovers, an assortment of fresh vegetables barbecued with a smoky finesse and cooked with aromatic long grain Basmati rice in the Hyderabadi Dum Biryani Style. Kcal - 1411 Contains - Milk, Nuts & Gluten",
+        "price": 39900,
+        "rating": "4.5",
+        "image_url": "nf2m5ncs83fslj3v3ody"
+      }
+    ]
+  },
+  {
+    "name": "Grameen Kulfi",
+    "rating": 4.8,
+    "area": "Civil Lines",
+    "cost_for_two": "₹120 for two",
+    "description": "Shop No G-3, Block 94/2, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "cuisines": [
+      {
+        "name": "Sitaphal Stick Kulfi",
+        "description": "The creamy and rich custard apple delight, hard to resist and even harder to share. This is one flavour to be simply not missed, when the season arrives. ",
+        "price": 6356,
+        "rating": "4.7",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/a225011b-6dc4-402b-ade9-4abd5e78da95_70146a91-3aae-4af1-a9d7-a28069a661d2.jpg"
+      },
+      {
+        "name": "No Added Sugar Alphonso Mango Stick Kulfi 70ml",
+        "description": "Enjoy summer-y kulfi made with the king of fruits -- alphonso mango pulp is combines with rich milk rabdi, slow-churned for hours. Now enjoy with no added sugar!",
+        "price": 7627,
+        "rating": "5.0",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/e50bb23c-e331-43a9-9d5b-9fce3626215e_247ffc7e-5890-4e96-baa3-b8bce77e1766.jpg"
+      },
+      {
+        "name": "Desi Malai Stick Kulfi",
+        "description": "A quintessential desi favourite, made with 100% pure milk rabdi slow-churned for hours. Does not contain any colours or preservatives. Serving; 1 serve, serving size :72/70,energy(kcal) :155,carbohydrate(gm):18. 3,protein(gm): 4. 5,dietary fiber(gm) : 0,fat(gm) : 7. 1,allergen :contains milk. May contains traces of tree nuts. ",
+        "price": 6356,
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/f588f22a-fbfc-4639-8953-e0d0ad55ea8b_5eba9c38-059e-44af-b797-511ace9fbfa3.jpg"
+      },
+      {
+        "name": "Thandai Stick Kulfi",
+        "description": "Give-in to kulfi indulgence with this 100% pure milk. Rabdi slow-churned for hours, made special with traditional thandai & topped with almond bits! serving; 1 serve, serving size :72/70,energy(kcal) :173,carbohydrate(gm):23. 1,protein(gm): 3. 7,dietary fiber(gm) : 0. 2,fat(gm) : 7. 3,allergen :contains milk and tree nuts. ",
+        "price": 6356,
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/13b56462-e3e4-4300-a15e-01a1d7ec1e27_09fba43f-d667-4873-b2d6-36335aa505fa.jpg"
+      },
+      {
+        "name": "Shahi Gulkand Stick Kulfi",
+        "description": "This desi kulfi is folded with aromatic gulkand into 100% pure milk rabdi slow-churned for hours. Serving; 1 serve, serving size :72/70,energy(kcal) :140,carbohydrate(gm):18. 5,protein(gm): 4. 8,dietary fiber(gm) : 0. 4,fat(gm) : 5. 3,allergen :contains milk. May contains traces of tree nuts. ",
+        "price": 6356,
+        "rating": "4.8",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/55c273ec-eeaa-439b-bf69-e3febd21c09a_444ce589-6602-4f30-a672-dd0ccff5f76f.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Yadav Dhaba Purana",
+    "rating": 4.2,
+    "area": "Civil Lines",
+    "cost_for_two": "₹250 for two",
+    "description": "Delhi Gate Raja Ki Mandi Station Road Agra , District - Agra, State - Uttar Pradesh",
+    "cuisines": [
+      {
+        "name": "Missi Roti",
+        "description": "Missi Roti are savory and nutty flavored flatbreads made with a mix of whole wheat flour, gram flour and spices.",
+        "price": 3500,
+        "rating": "4.2",
+        "image_url": "hpiyh13y4r4hw43ptyuc"
+      },
+      {
+        "name": "Lachha Paratha",
+        "description": "Laccha paratha is a unique flatbread which can be made with both wheat flour and all-purpose flour",
+        "price": 5000,
+        "rating": "4.4",
+        "image_url": "xnujw5vcffs2738onnd7"
+      },
+      {
+        "name": "Butter Plain Naan ( 1 Pc )",
+        "description": "Indulge in the sumptuousness of our Butter Plain Naan, a delectable and flavorful bread perfect for your Tandoori Se cravings!",
+        "price": 4000,
+        "rating": "4.1",
+        "image_url": "qozmeqjwweshrmusmv2t"
+      },
+      {
+        "name": "Aalo Piyaz Paratha ",
+        "description": "Fluffy paratha with a flavor packed seasoned onion and potato stuffing; served with pickle and salad.",
+        "price": 6000,
+        "rating": "4.2",
+        "image_url": "abecx7bqpqztknfm5fqd"
+      },
+      {
+        "name": "Tandoori Plain Roti ( 1 Pc )",
+        "description": "Deliciously baked flatbread with a tandoori twist.",
+        "price": 1600,
+        "rating": "4.1",
+        "image_url": "xdkcw2nqsvoxvfons3zm"
+      }
+    ]
+  },
+  {
+    "name": "Pizza Hut",
+    "rating": 4.3,
+    "area": "Civil Lines",
+    "cost_for_two": "₹350",
+    "description": "Pizza Hut is a popular pizza chain that offers a variety of pizzas and other items.",
+    "cuisines": [
+      {
+        "name": "Margherita",
+        "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+        "price": "₹169",
+        "rating": 4.4,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/17/ef2f1053-c8e3-4072-aaa7-4539a67c8554_e8da5065-4d03-47d7-bad7-5413398a1564.jpg_compressed"
+      },
+      {
+        "name": "Veggie Feast",
+        "description": "Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce",
+        "price": "₹259",
+        "rating": 3.8,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/17/ee9985e4-828b-4a0e-b99b-656442e80877_7492ef8f-5b57-4ca4-86e6-4a8981c38510.jpg_compressed"
+      },
+      {
+        "name": "Tandoori Paneer",
+        "description": "It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese!",
+        "price": "₹319",
+        "rating": 4.2,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/17/92cfd7cf-0504-4444-befc-ff4aee0486cd_bac2d634-a13d-4cc3-828e-b2ad12dc73c0.jpg_compressed"
+      },
+      {
+        "name": "Country Feast",
+        "description": "Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse",
+        "price": "₹319",
+        "rating": 3.6,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/16/78bc0268-a19e-4c65-8ea2-4b4626898698_c52e5d95-51c4-4239-92b0-70b1ab93d12f.jpg_compressed"
+      },
+      {
+        "name": "Veggie Supreme",
+        "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese.",
+        "price": "₹379",
+        "rating": 4.7,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/17/2f6b03bf-3bb0-40cd-a5b8-7f0cfdf21998_7cc4fe8f-d5f8-44ed-ada9-0a719fc4d89f.jpg_compressed"
+      }
+    ]
+  },
+  {
+    "name": "Burger King",
+    "rating": 4.3,
+    "area": "Tajganj",
+    "cost_for_two": "₹350",
+    "description": "Burger King is a global fast-food chain known for its burgers, fries, and other quick-service items.",
+    "cuisines": [
+      {
+        "name": "Crispy Veg Burger",
+        "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce.",
+        "price": "₹70",
+        "rating": 4.4,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/d4387d28-73ab-45b7-b424-61588863d158_9477217d-7c7a-4834-919a-b9ae7d7cf950.jpg"
+      },
+      {
+        "name": "Crispy Veg Double Patty Burger",
+        "description": "Double Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce.",
+        "price": "₹99",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/9cd490f9-f191-49c2-9043-6dc3e7e58166_34badbda-4128-45d4-87e2-e9c580e8db43.jpg"
+      },
+      {
+        "name": "BK Veg Pizza Puff",
+        "description": "Not available",
+        "price": "₹65",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Veg Whopper",
+        "description": "Our Signature Whopper With 7 Layers Between The Buns. Extra Crunchy Patty, Fresh Onion, Crispy Lettuce, Juicy Tomatoes(seasonal), Tangy Gherkins, Creamy And Smoky Sauces With Xxl Buns. It’S Not A Burger, It’S A Whopper.",
+        "price": "₹179",
+        "rating": 4.3,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/0f04e4c2-2509-42b8-80e5-7275306692b7_25083584-37d4-471d-84bf-5a3311f7e44a.jpg"
+      },
+      {
+        "name": "Cheesy Veg Burger",
+        "description": "Not available",
+        "price": "₹99",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/18066539-9374-4279-b138-08172c57b77b_55cf4739-b9e7-4950-8b1a-821558c42c90.jpg"
+      }
+    ]
+  },
+  {
+    "name": "KFC",
+    "rating": 4.2,
+    "area": "Nagar Nigam",
+    "cost_for_two": "₹400 for two",
+    "description": "K.F.C Part Swadeshi Beema Nagar, Hariparwat, Agra, Nagar Nigam Food Safety Zone 03, Agra, Uttar Pradesh-282002",
+    "cuisines": [
+      {
+        "name": "Gold Edition - Veg Zinger Burger",
+        "description": "Our Signature Veg Zinger Dunked in Cheese Sauce in the new Brioche Bun to get your tastebuds tingling",
+        "price": "₹239",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/6/16/cb6e9c4a-4de6-4cb4-b549-35db959bf077_e7a57bea-8111-4037-8963-7275075500d2.jpg"
+      },
+      {
+        "name": "Chatpata Chana Veg Burger - 2 pc",
+        "description": "Try New 2 units of Delicious Channa Burger with a unique Indian Chatpata Twist",
+        "price": "₹149",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/6/10/8f55edec-e16c-4f68-985d-14a42e617527_f914dbc7-0a64-45c6-8a47-d603467a8776.jpg"
+      },
+      {
+        "name": "Veggie Vibe Zinger Duo Meal",
+        "description": "A partnership savings of Rs 165 for Paneer Zinger Burger, Veg Zinger Burger, Large Fries and 2 Pepsi Reusable Bottle [Serves 2]",
+        "price": "₹589",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/1/80a4d955-fb1c-4a8a-9d56-5937bd22b54d_70d92cf3-e11f-4b62-8dee-8ea35fbd62f7.jpg"
+      },
+      {
+        "name": "Indian Spicy Veg Roll",
+        "description": "Veg special spicy indian sauce and veggie roll",
+        "price": "₹139",
+        "rating": "3.7",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/25/bf247176-6142-4eea-bd04-d0acf186b6f0_f5537093-5d29-4b12-9c71-7935995f15b8.jpg"
+      },
+      {
+        "name": "Veg Krisper Burgers - 2pc",
+        "description": "2 delicious veg value burgers - at a deal price",
+        "price": "₹99",
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/8/10aa0923-fbec-4185-996d-08d1f08f4c14_6e3d80d3-6ef1-4c46-b453-ba3ed706bfb9.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dunkin' - Donuts & Coffee",
+    "rating": 4.4,
+    "area": "Hariparwat Ward",
+    "cost_for_two": "₹250 for two",
+    "description": "Ground Floor at LG-1,Part of Premises No-15,Corp, No-2/27,Swadeshi Beema Nagar,Civil Lines,Hariparwat Ward,Agra, Nagar Nigam Food Safety Zone 08, Agra, Uttar Pradesh-282002",
+    "cuisines": [
+      {
+        "name": "Cold Coffee Bubble",
+        "description": "Serves 1 | Indulge in the creamy richness of cold coffee infused with chewy tapioca pearls which enhances the texture of the drink",
+        "price": "₹310",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/14/46c94e74-6507-4fa1-97f9-de9fac908919_6f2a9dfc-a635-413d-add6-d06d89e9a320.jpg_compressed"
+      },
+      {
+        "name": "Caramel Coffee Bubble",
+        "description": "Serves 1 | Caramel Bubble Crush is an indulgent creamy drink combining coffee, caramel, milk, and chewy boba pearls",
+        "price": "₹310",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/14/9496ffa0-d4be-4bec-ba6b-7ce19976ae5e_e0578c37-5e76-4298-833e-0eefc6817354.jpg_compressed"
+      },
+      {
+        "name": "Death By Chocolate Bubble",
+        "description": "Serves 1 | Blend of rich chocolate and creamy tapioca pearls, Death by Chocolate bubble is a dessert in a drink",
+        "price": "₹310",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/14/2df85e86-03a6-48b8-910a-5ca7278308b9_9fafee0b-63d3-4582-b20e-8366d50ff798.jpg_compressed"
+      },
+      {
+        "name": "Nutty Taro Bubble Tea",
+        "description": "Serves 1 | A popular flavour evolved from South Asia which is mildly sweet, nutty flavoured and has creamy texture with choice of toppings from coffee poppers and Chewy Tapioca",
+        "price": "₹310",
+        "rating": "5.0",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/14/39ffae54-2179-4946-9a2e-7439fd270bff_c71eba8b-d98f-4e24-b6c7-08b0e9784797.jpg_compressed"
+      },
+      {
+        "name": "Classic Donut + Coffee Combo.",
+        "description": "Serves 1 | “Savor the perfect combo: rich espresso shots brewing into a bold, aromatic coffee paired with a soft and fluffy classic donut. The perfect match for any time of day!”",
+        "price": "₹289",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/14/782e3640-94ea-4897-94f0-fd5401bd87be_fb539d1c-2826-4ec4-8be5-9127c9d81ba5.jpg_compressed"
+      }
+    ]
+  },
+  {
+    "name": "Pushpak Misthan Bhandar",
+    "rating": 4.4,
+    "area": "Mantola",
+    "cost_for_two": "₹350 for two",
+    "description": "Pushpak Misthan Bhandar is a popular sweets and street food restaurant.",
+    "cuisines": [
+      {
+        "name": "Malai Ghewer.",
+        "description": "Not available",
+        "price": "₹100",
+        "rating": "4.2",
+        "image_url": "Not available"
+      },
+      {
+        "name": "4 Pcs Laddu Box",
+        "description": "Not available",
+        "price": "₹95",
+        "rating": "4.4",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Fruit .cream",
+        "description": "Fruit spl",
+        "price": "₹80",
+        "rating": "4.2",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Keser Badam Milk",
+        "description": "Not available",
+        "price": "₹90",
+        "rating": "4.6",
+        "image_url": "5407c25acce7bfc9b2de5cfbaedc26e3"
+      },
+      {
+        "name": "Fruit Roll [ khoya sweets ]",
+        "description": "Not available",
+        "price": "₹75",
+        "rating": "4.4",
+        "image_url": "c5967fc9a5297bc8e3050232b216ce1e"
+      }
+    ]
+  },
+  {
+    "name": "Cheesecake & co.",
+    "rating": 4.7,
+    "area": "SHEEL VIHAR COLONY",
+    "cost_for_two": "₹300 for two",
+    "description": "Cheesecake & co. is a dessert and bakery shop.",
+    "cuisines": [
+      {
+        "name": "Belgian Chocolate Mousse Cake (half Kg)",
+        "description": "Here To Add That \"Yum\" Factor To Your Mousse Cake Cravings",
+        "price": "₹600",
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/25/064bc961-a956-48af-8b8a-a164ffea95f2_b51bb740-a0e8-477d-b78c-e53053457c0d.jpg"
+      },
+      {
+        "name": "Lotus Biscoff Baked Cheesecake",
+        "description": "Hyping Things Up With A Dose Of The Celebrated Lotus Biscoff",
+        "price": "₹1800",
+        "rating": "5.0",
+        "image_url": "f08efbae23f8563f8b21865d258c6fa2"
+      },
+      {
+        "name": "Blueberry Baked Cheesecake",
+        "description": "Blueberries Just Got Comforting As They Came In With Our Cheesecake",
+        "price": "₹1500",
+        "rating": "5.0",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/25/bff1b116-fc5a-44d2-adb0-0823a264c85f_cd037120-442d-4275-bd83-26b67c92b398.jpg"
+      },
+      {
+        "name": "Tiramisu Cake",
+        "description": "Transporting You To The Streets Of Italy With Our Authentic Tiramisu Cake",
+        "price": "₹1500",
+        "rating": "5.0",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/25/c2309fc6-c594-4d33-951f-93f51b6a224d_950fb686-8ddb-4358-8c9b-12440e144d16.jpg"
+      },
+      {
+        "name": "Chocolate Tiramisu Half Kg",
+        "description": "Your Favourite Chocolate Just Found Its Way In The Traditional Tiramisu! Delightful Isn'T It?",
+        "price": "₹850",
+        "rating": "4.8",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/25/19050b5a-40fa-47d4-b7fe-d4c54e7b2164_4cba46c7-b5f6-46e3-a2dc-a0a1104ea4a9.jpg"
+      }
+    ]
+  },
+  {
+    "name": "GMB - Gopika Sweets & Restaurant",
+    "rating": 4.5,
+    "area": "Civil Lines",
+    "cost_for_two": "₹350 for two",
+    "description": "GMB - Gopika Sweets & Restaurant is a popular place for sweets and North Indian cuisine.",
+    "cuisines": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "A popular Indian curry made with cottage cheese and a creamy tomato-based gravy.",
+        "price": "₹250",
+        "rating": "4.6",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Dal Makhani",
+        "description": "A classic Punjabi dish made with black lentils, red kidney beans, butter, and cream.",
+        "price": "₹220",
+        "rating": "4.5",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Shahi Paneer",
+        "description": "A rich and creamy dish of paneer (cottage cheese) in a tomato, butter, and cashew sauce.",
+        "price": "₹260",
+        "rating": "4.7",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Mix Veg",
+        "description": "A healthy and delicious curry made with a variety of fresh vegetables.",
+        "price": "₹200",
+        "rating": "4.4",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Malai Kofta",
+        "description": "A popular North Indian dish of deep-fried paneer and vegetable balls in a rich and creamy gravy.",
+        "price": "₹240",
+        "rating": "4.5",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "Subway",
+    "rating": 4.3,
+    "area": "Church Road",
+    "cost_for_two": "₹350 for two",
+    "description": "Subway is an American multinational fast food restaurant franchise that primarily sells submarine sandwiches (subs), wraps, salads, and beverages.",
+    "cuisines": [
+      {
+        "name": "Veggie Delite™ Signature Wrap",
+        "description": "A delicious and wholesome wrap filled with a variety of fresh vegetables and your choice of sauces.",
+        "price": "₹219",
+        "rating": "4.2",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/7/15/c5b4b30d-bb1e-4732-942d-5ad9dd0c9bfd_82c3ea31-3a76-47ab-a046-d3713c165716.png"
+      },
+      {
+        "name": "Paneer Tikka Signature Wrap",
+        "description": "A flavorful wrap filled with marinated paneer tikka, fresh vegetables, and your choice of sauces.",
+        "price": "₹259",
+        "rating": "4.4",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Corn & Peas Signature Wrap",
+        "description": "A tasty wrap filled with a delicious combination of corn, peas, fresh vegetables, and your choice of sauces.",
+        "price": "₹229",
+        "rating": "4.3",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Aloo Patty Sub",
+        "description": "A classic sub filled with a crispy aloo patty, fresh vegetables, and your choice of sauces.",
+        "price": "₹189",
+        "rating": "4.1",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Veg Shammi Kebab Sub",
+        "description": "A delicious sub filled with flavorful veg shammi kebabs, fresh vegetables, and your choice of sauces.",
+        "price": "₹239",
+        "rating": "4.3",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "Theobroma",
+    "rating": 4.5,
+    "area": "Church Road",
+    "cost_for_two": "₹400 for two",
+    "description": "Theobroma is a renowned patisserie and bakery chain celebrated for its exquisite cakes, pastries, and artisanal desserts, offering a delightful array of gourmet treats.",
+    "cuisines": [
+      {
+        "name": "Strawberry Custard & Cream Cake [530g]",
+        "description": "Strawberry jam and custard cream layered between soft vanilla sponge, decorated with strawberry jelly and white chocolate flakes.",
+        "price": "₹400",
+        "rating": "4.7",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/22/825197c0-eafd-4c6b-af5c-505e49d897a0_555e0c3d-ddd4-412b-bf8d-fac8c8421fa8.jpg"
+      },
+      {
+        "name": "Choco Butterscotch Cake [560g]",
+        "description": "Classic buttercotch cake made with vanilla cream and house-made butterscotch sauce, topped with milk choco glaze and crunchy butterscotch.",
+        "price": "₹500",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/22/b1b570c1-348f-4b2e-bcdd-a8fa26a34e89_c8d2fca7-d12c-422f-81f9-1f82d9c144a3.jpg"
+      },
+      {
+        "name": "Fresh Fruit Custard Cream Cake [600g]",
+        "description": "A fresh and fruity delight with layers of custard whipped cream, fruit compote and soft vanilla sponge, topped with fresh seasonal fruits.",
+        "price": "₹550",
+        "rating": "2.8",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/22/46108318-ade2-4a3f-8bad-804434f5db5a_122b58a4-850b-45c3-95a5-568fd873b333.jpg"
+      },
+      {
+        "name": "Eggless Dutch Truffle Cake [500g]",
+        "description": "Dark chocolate ganache with chocolate sponge.",
+        "price": "₹575",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/9/2/767005ef-6703-446e-b893-4bb282dc73c4_9485b957-8122-4621-a563-419a8979c0fc.jpg"
+      },
+      {
+        "name": "Eggless Fresh Cream Pineapple Cake (500gms)",
+        "description": "Fresh cream cake with home made pineapple compote.",
+        "price": "₹575",
+        "rating": "4.9",
+        "image_url": "6f46ef359dc4981ae6a0e757f1f6e434"
+      }
+    ]
+  },
+  {
+    "name": "Baskin Robbins - Ice Cream Desserts",
+    "rating": 4.4,
+    "area": "Civil Lines",
+    "cost_for_two": "₹250 for two",
+    "description": "Baskin Robbins is a world-famous ice cream chain offering 31 flavors and a variety of frozen desserts.",
+    "cuisines": [
+      {
+        "name": "Fresh Very Berry Strawberry Ice cream (100 ml)",
+        "description": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, it's an all time favourite! (Contains Milk) (Energy: 119KCal, Carbohydrates: 14gm, Proteins: 2gm, Fats: 6gm)",
+        "price": "₹55",
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/bcad3169-22f6-42d2-8095-a19fe28b66f9_c6d2daf3-dfc1-4206-8ae3-534e22d4df76.jpeg"
+      },
+      {
+        "name": "Fresh Alphonso Mango Ice cream (100 ml)",
+        "description": "Delicious Alphonso Mango based ice cream made with juicy, real Mango pulp. Just go for this aam-azing Mango ice cream! (Contains Milk) (Energy: 119KCal, Carbohydrates: 14gm, Proteins: 2gm, Fats: 6gm)",
+        "price": "₹68",
+        "rating": "4.9",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/edc0f22f-0c28-41ff-a74d-7d375a2804b9_4f3483f5-5901-4109-9061-078dba6fc642.jpeg"
+      },
+      {
+        "name": "Mississippi Mud Ice Cream Rocks 192 ml",
+        "description": "Delicious bite-sized Mississippi Mud chocolate ice cream coated with milk choco-dip and brownie crumble",
+        "price": "₹263",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/93b83be5-b422-459f-9031-e8d56947b38b_fe6ba6c0-56af-4cf2-bd1b-cc6fb6fd280e.jpeg"
+      },
+      {
+        "name": "Caramel Biscuit Ice Cream Rocks 192 ml",
+        "description": "Delicious Bite Sized Ice Cream Coated with White chocolate and Biscoff Cookie Crumbs Pop the Rock",
+        "price": "₹275",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/c6725523-c392-4c62-a980-d1ffe1af7384_6725f0e2-7c61-485b-9ddc-00cb8e0eef04.jpeg"
+      },
+      {
+        "name": "Fruit Overload 165 ml",
+        "description": "Premium Mix Fruit flavoured Ice Cream topped with Mix Fruit preparation.",
+        "price": "₹119",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/06f38d8d-4a11-4736-a651-f1909a373968_9d46888f-4a4c-46dc-923e-e5ebd101e94e.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "The Belgian Waffle Co.",
+    "rating": 4.7,
+    "area": "Civil Lines",
+    "cost_for_two": "₹200 for two",
+    "description": "Waffle, Desserts",
+    "cuisines": [
+      {
+        "name": "Choco Kunafa Waffle",
+        "description": "Our signature dark choco Waff-Wich meets the VIRAL Dubai-Chocolate — and the rest is history ! A rich blend of dark chocolate, pistachio kunafa, and the creamy chocolate spread.",
+        "price": "₹215",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/7/31/4498dffb-7bcf-4833-8400-79dbef2970c0_ca5766ee-d361-4538-a54f-05198ec89b4f.png"
+      },
+      {
+        "name": "Death By Choco-rush",
+        "description": "Dive into our signature Choco waff-wich, layered with milk Choco spread topped with hot Choco fudge, choco chips, Oreos, Kit Kat, and rich creamy Choco ice cream. It's a breath-stealing blend of pure indulgence!",
+        "price": "₹265",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/10/b4d95442-f7a8-4f7c-91b5-cd6ff162a8ce_ba736278-d30c-41a3-984b-608647ded442.png"
+      },
+      {
+        "name": "Almond Fudge Brownie",
+        "description": "Epitome of indulgence in every bite — a decadent fusion of Waff-wich & a brownie, layered with silky milk choco. Crowned with warm choco fudge, roasted almonds, Oreos, crunchy wafer rolls, and a generous scoop of creamy vanilla ice cream, this dessert is a symphony of textures and flavors.",
+        "price": "₹245",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/10/2e064b32-3008-4e59-8f39-8e9444ecf646_a2daa480-fa93-4366-a776-eaa7a381409c.png"
+      },
+      {
+        "name": "KitKat Affair",
+        "description": "Make the most of this Affair. Our crispy classic waff-wich is a masterpiece layered with melted Belgian white Choco topped with creamy vanilla ice cream, KitKat crumbs & drizzled with melted Belgian white and milk Choco. For KitKat lovers!",
+        "price": "₹245",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/10/a524cd1d-a120-4a46-89ab-d1ae9cef862e_d672df9f-cec3-4ff0-b762-2b46a6dd6c37.png"
+      },
+      {
+        "name": "Nutella Overload",
+        "description": "Unleash the mighty flavour with our crispy classic waff-wich layered in Nutella, crowned with vanilla ice cream, and topped with melted Belgian white Choco, Nutella spread, roasted almonds, and a playful wafer roll. It's a taste revolution!",
+        "price": "₹280",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/4/10/12a3d46c-70d5-4cdb-b97c-34f3914a8124_0f15586d-04f2-44d9-909b-2694a6d62c6b.png"
+      }
+    ]
+  },
+  {
+    "name": "Om Sai Ram Bhojnalaya",
+    "rating": 3.9,
+    "area": "Khandari",
+    "cost_for_two": "₹250 for two",
+    "description": "Indian, Biryani",
+    "cuisines": [
+      {
+        "name": "Paneer Butter Masala",
+        "description": "A creamy dish with pre cooked tandoor style soft paneer peices cooked in a rich tomato gravy seasoned with spices and butter.",
+        "price": "₹190",
+        "rating": "3.8",
+        "image_url": "dzpqxt9mthwqiijcgmyq"
+      },
+      {
+        "name": "Khoya Paneer",
+        "description": "Khoya paneer is a popular North Indian dish made with paneer (Indian cottage cheese), khoya (thickened milk), onion, garlic, ginger, tomato and Indian spices.",
+        "price": "₹199",
+        "rating": "4.1",
+        "image_url": "1b960a00dbe0a0bd8cd97e590a9bee0d"
+      },
+      {
+        "name": "Shahi Paneer",
+        "description": "Shahi Paneer is deliciously rich and creamy, making it one of the most popular recipes in Mughlai cuisine. Fresh, unmelting cheese is married with a creamy gravy, perfect for serving with naan or roti.\n",
+        "price": "₹180",
+        "rating": "3.8",
+        "image_url": "hyyu2ax0zgfpoaatkabn"
+      },
+      {
+        "name": "Kadai Paneer",
+        "description": "A rich, creamy curry of soft succulent paneer and plenty of onions in a wonderful medley of spices, herbs and tomatoes.\n\n",
+        "price": "₹199",
+        "rating": "4.0",
+        "image_url": "s2o5nvrka2qz9gtn1gt8"
+      },
+      {
+        "name": "Mix Veg",
+        "description": "A decadently indulgent dish prepared by cooking various vegetables in a classic indian way.\n",
+        "price": "₹120",
+        "rating": "4.3",
+        "image_url": "tgpnice0xa60qy1snnhd"
+      }
+    ]
+  },
+  {
+    "name": "Burger Farm",
+    "rating": 4.2,
+    "area": "Tajganj",
+    "cost_for_two": "₹300 for two",
+    "description": "Burger Farm is a vibrant eatery offering a range of juicy burgers, crispy munchies, refreshing beverages, and decadent desserts in a casual setting.",
+    "cuisines": [
+      {
+        "name": "Chicken Fingers Nine Pcs",
+        "description": "Crispy & juicy chicken fingers for your munching cravings served with 2 dips",
+        "price": "₹214",
+        "rating": "4.8",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/25/78a0b442-afdb-4766-9cbe-dfca7d814b27_db5500ca-9533-4208-a540-7e50a3885d80.jpg"
+      },
+      {
+        "name": "Chicken Fingers Six Pcs",
+        "description": "Crispy & juicy chicken fingers for your munching cravings served with 2 dips",
+        "price": "₹174",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/25/78a0b442-afdb-4766-9cbe-dfca7d814b27_db5500ca-9533-4208-a540-7e50a3885d80.jpg"
+      },
+      {
+        "name": "Chicken Popcorn",
+        "description": "Experience the perfect crunch with our irresistible chicken popcorn which are perfectly seasoned and perfectly fried to serve your cravings.",
+        "price": "₹184",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/25/72ae77b6-b934-4d86-a40e-3e2ce1990ecd_033bfec8-8e41-4c51-86c6-f8d77114547c.jpg"
+      },
+      {
+        "name": "Gulkand Paan Shake",
+        "description": "A delightful fusion of traditional Indian flavors with betel leaves, and creamy milkshake.",
+        "price": "₹189",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/25/8415a1e2-cb29-467c-800a-ce3f998200e3_5ae3b3b9-ad65-4c53-b8ee-83c70b3b2e1f.jpg"
+      },
+      {
+        "name": "Strawberry Shake",
+        "description": "Dive into a Strawberry Shake a dreamy blend of strawberries and creamy delight.",
+        "price": "₹189",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/25/66c54efe-d3f7-4eb5-a326-0298f3957f5a_94cbbfa0-ce94-407a-84b1-e26a875a7b19.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Little Italy",
+    "rating": 4.4,
+    "area": "Rakabganj, Agra",
+    "cost_for_two": "₹1500 for two",
+    "description": "Italian, Pizzas",
+    "cuisines": [
+      {
+        "name": "Garlic Bread",
+        "description": "Serves 1 | Farmer's bread flavored with garlic and herbs.",
+        "price": "₹325",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/2/62402631-502a-41d4-8d96-c1d406981881_851b3334-1191-419b-a3d8-5524d7759ab7.jpeg"
+      },
+      {
+        "name": "Special Tiramisu",
+        "description": "Serves 1 | A classic Italian dessert with layers of mascarpone cheese, espresso and cocoa.",
+        "price": "₹450",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/2/98715833-281b-42ab-b295-a22687c427de_069cf7ef-7b7d-4c07-ac37-d7d8e202951f.jpeg"
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "Serves 1 | Fresh tomato sauce, mozzarella and basil.",
+        "price": "₹625",
+        "rating": "4.3",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/2/6f3b7d19-d04b-4b71-9c86-8d626a575e7a_e167c132-7204-43cb-b362-e1f4ac3b4e63.jpeg"
+      },
+      {
+        "name": "Pasta Al Forno",
+        "description": "Serves 1 | Creamy baked pasta with broccoli, tomato, mushrooms, bell peppers and mozzarella.",
+        "price": "₹695",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/2/6d1c7901-ad2a-436f-a892-3580436d10f8_3200ff96-5190-48e0-a4f6-7b83344659b8.jpeg"
+      },
+      {
+        "name": "Chocolate Bomb",
+        "description": "Serves 1 | A warm chocolate lava cake.",
+        "price": "₹425",
+        "rating": "4.6",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/7/2/6075f106-9b8e-4903-882d-8067c2cd88d8_0607a93e-2826-4448-a006-b333c1d4791a.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "FNP Cakes By Ferns N Petals",
+    "rating": 4.5,
+    "area": "Rakabganj, Agra",
+    "cost_for_two": "₹450 for two",
+    "description": "Desserts, Bakery",
+    "cuisines": [
+      {
+        "name": "Kit Kat Cake",
+        "description": "Serves 1 | This Kit Kat cake is a delicious chocolate layer cake with a Kit Kat crunch.",
+        "price": "₹1149",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/a5d62d22-2615-467f-85d1-3995874c7601_2841b897-4229-411a-b6d8-6548b2d4277c.jpg"
+      },
+      {
+        "name": "Chocolate Truffle Cream Cake",
+        "description": "Serves 1 | A decadent and moist chocolate cake with a silky smooth and rich chocolate ganache.",
+        "price": "₹849",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/d8b28f79-436c-49a0-9856-7493d567c9c7_46f903e1-4b10-410a-86c8-2e061730e9d1.jpg"
+      },
+      {
+        "name": "Oreo Cream Cake",
+        "description": "Serves 1 | A delicious and creamy cake made with Oreo cookies and cream.",
+        "price": "₹899",
+        "rating": "4.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/68c8a14d-61c3-424a-8d1e-8e8e8e8e8e8e_8b9b8b9b-8b9b-8b9b-8b9b-8b9b8b9b8b9b.jpg"
+      },
+      {
+        "name": "Red Velvet Cream Cheese Cake",
+        "description": "Serves 1 | A classic red velvet cake with a rich cream cheese frosting.",
+        "price": "₹949",
+        "rating": "4.6",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/2b2b2b2b-2b2b-2b2b-2b2b-2b2b2b2b2b2b_8b9b8b9b-8b9b-8b9b-8b9b-8b9b8b9b8b9b.jpg"
+      },
+      {
+        "name": "Pineapple Cake",
+        "description": "Serves 1 | A classic pineapple cake with a light and fluffy sponge and a creamy pineapple frosting.",
+        "price": "₹749",
+        "rating": "4.4",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/d2d2d2d2-d2d2-d2d2-d2d2-d2d2d2d2d2d2_8b9b8b9b-8b9b-8b9b-8b9b-8b9b8b9b8b9b.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Faasos - Wraps, Rolls & Shawarma",
+    "rating": 4.5,
+    "area": "Civil Lines",
+    "cost_for_two": "₹200 for two",
+    "description": "Faasos is a popular fast-food chain specializing in innovative wraps, rolls, and shawarmas, delivering convenient and flavorful meals perfect for on-the-go dining.",
+    "cuisines": [
+      {
+        "name": "Spicy Paneer Salad Burger Wrap",
+        "description": "Paneer coated & fried till golden brown is generously drizzled with spicy chipotle mayo & wrapped in a flaky paratha with crunchy veggies & onion slices. The perfect textures & taste, all wrapped up!",
+        "price": "₹239",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/6/27/b7d18bcf-646c-49e0-b725-cc2d312b76c8_f57fa7f2-6a0e-467f-af9e-7fe5b76d6a6f.jpeg"
+      },
+      {
+        "name": "Puri with Sabzi Combo",
+        "description": "Puri [1 kg]+2 Sabzi [Subject to availability]",
+        "price": "₹420",
+        "rating": "3.8",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Sabzi with Puri Combo",
+        "description": "Puri [500 grams]+2 Sabzi [Subject to availability]",
+        "price": "₹220",
+        "rating": "4.8",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Bedai With Sabzi Combo",
+        "description": "Puri [500 grams]+Vadai+2 Sabzi [Subject to availability]",
+        "price": "₹220",
+        "rating": "3.7",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Puri With Bedai Combos",
+        "description": "Puri [1 kg]+Vadai+2 Sabzi [Subject to availability]",
+        "price": "₹420",
+        "rating": "Not available",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "Chimmanlal Poori Wale",
+    "rating": 4.3,
+    "area": "Mantola",
+    "cost_for_two": "₹150 for two",
+    "description": "Chimmanlal Poori Wale is a traditional eatery renowned for its authentic Indian breakfast items like puris, bedai, and sabzi, serving hearty and flavorful vegetarian meals.",
+    "cuisines": [
+      {
+        "name": "Sada Roti",
+        "description": "A tasty and flavorful vegetarian bread that is perfect to enjoy on its own or paired with your favorite curry or soup.",
+        "price": "₹15",
+        "rating": "3.5",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/10/10/4b238c1a-792f-4235-9946-e311139fcb15_3731e395-5bce-4793-9cf5-8fd12616bec7.JPG"
+      },
+      {
+        "name": "Butter Roti",
+        "description": "Not available",
+        "price": "₹20",
+        "rating": "4.2",
+        "image_url": "f785f270238aebae0e9c80a9baf68af7"
+      },
+      {
+        "name": "Gulab Jamun",
+        "description": "An indulgent and heavenly Indian sweet, filled with a luscious syrupy center and a delicate, melt-in-your-mouth texture.",
+        "price": "₹20",
+        "rating": "3.3",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/5/15/fb7e673b-230d-4e2d-b02f-77b2ae32b81e_4c050d92-bb46-4c74-8bbf-bcaf24cdf7e3.JPG"
+      },
+      {
+        "name": "Bedai",
+        "description": "A scrumptious Indian snack bursting with savory flavors and delectable textures.",
+        "price": "₹15",
+        "rating": "4.4",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Puri with Sabzi Combo",
+        "description": "Puri [1 kg]+2 Sabzi [Subject to availability]",
+        "price": "₹420",
+        "rating": "3.8",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "Spice hut",
+    "rating": 3.7,
+    "area": "Tajganj",
+    "cost_for_two": "₹500 for two",
+    "description": "Spice Hut is a cozy eatery specializing in flavorful Indian cuisine, offering a range of non-vegetarian delights like curries, pizzas, and tawa specialties for family dining.",
+    "cuisines": [
+      {
+        "name": "Chicken curry",
+        "description": "Indulge in the aromatic flavors of a hearty and flavorsome chicken curry.",
+        "price": "₹250",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Chicken Pizza",
+        "description": "Not available",
+        "price": "₹150",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/1/2/3f493030-f5fb-4e8c-be6f-cf938bac87b1_ef317381-0a5d-4351-acca-730cb7e2082c.jpg"
+      },
+      {
+        "name": "Chicken Handi",
+        "description": "Not available",
+        "price": "₹400",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Chicken Tawa",
+        "description": "Not available",
+        "price": "₹300",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Chicken Kofta Curry",
+        "description": "Not available",
+        "price": "₹300",
+        "rating": "Not available",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "Al Madina Restaurant",
+    "rating": 4.0,
+    "area": "Tajganj",
+    "cost_for_two": "₹400 for two",
+    "description": "Al Madina Restaurant serves authentic Indian and Mughlai dishes in a welcoming atmosphere, perfect for families seeking traditional flavors.",
+    "cuisines": [
+      {
+        "name": "Chicken Fry",
+        "description": "Crispy and flavorful fried chicken, ideal for sharing.",
+        "price": "₹400",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Dal Menu",
+        "description": "A comforting lentil preparation served with rice or bread.",
+        "price": "₹500",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Chicken Fingers Crunchy",
+        "description": "Crispy chicken fingers for a crunchy snack.",
+        "price": "₹250",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Chicken Corn Pizza",
+        "description": "A fusion pizza topped with chicken and corn.",
+        "price": "₹200",
+        "rating": "Not available",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Mutton Biryani",
+        "description": "Aromatic rice dish with tender mutton pieces.",
+        "price": "₹350",
+        "rating": "Not available",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "South Kitchen",
+    "rating": 5,
+    "area": "Civil Lines",
+    "cost_for_two": "₹600 for two",
+    "description": "B-316, Ram Raghu Ananda Phase-2, Sikandra ,WARD NO. 59 SIKANDRA,Nagar Nigam Food Safety Zone 05,Agra,Uttar Pradesh-282007",
+    "cuisines": [
+      {
+        "name": "Paneer Butter Masala with Paratha",
+        "description": "A delicious combo of creamy paneer butter masala  and soft handmade paratha",
+        "price": "₹249",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/b11f8628-3c1c-4bc6-bcf2-c7bd87549e40_33a0b9e9-79d0-4125-a895-d83f79c60d46.jpg"
+      },
+      {
+        "name": "Paneer, Beans and  Corn Salad",
+        "description": "A refreshing mix of soft paneer, crunchy beans, and sweet corn tossed in light seasoning for a wholesome, nutritious salad",
+        "price": "₹299",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/41eb5a33-207b-4f2f-a847-43760a7ab941_5c337d78-cc19-4767-bc3f-da54983944dd.jpg"
+      },
+      {
+        "name": "Sauté Paneer With Flavoured Rice",
+        "description": "Tender sauted paneer cooked in olive oil, paired with aromatic flavoured rice and crisp fresh salad for a light yet satisfying meal",
+        "price": "₹299",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/15/2cbc6679-37c9-4cef-a1df-33f7e17ba646_c99b9703-f654-4cc7-9119-9c19dddb93db.jpg"
+      },
+      {
+        "name": "Veg Soup",
+        "description": "Not available",
+        "price": "₹83",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/18/147a0e00-3f13-48ae-9fce-89b776eec28b_c7f00382-c5d7-4690-a901-1cdc87e7bd8c.jpg"
+      },
+      {
+        "name": "Paneer Beans And Corn Salad [400G]",
+        "description": "A nutritious salad combining soft paneer, crunchy bean and sweet corn, tossed with fresh lettuce, veggies and light seasoning for a flavorful, healthy meal.",
+        "price": "₹299",
+        "rating": "Not available",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/8/18/8a742289-ea44-4743-b422-6462b9013640_3638571d-8f0f-4fab-abd6-f270344e252b.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Pushpak Mishthan Bhandar Sweets And Snacks",
+    "rating": 4.3,
+    "area": "M.G Road",
+    "cost_for_two": "₹260 for two",
+    "description": "M/S SHAKTI FOODS, 11/139, GUDRI SOOT  M.G. ROAD AGRA , WARD NO. 18 BAGH  MUJAFFAR KHAN, Nagar Nigam Food  Safety Zone 10, Agra, Uttar Pradesh -  282003",
+    "cuisines": [
+      {
+        "name": "Sarso Oil Samosa",
+        "description": "Not available",
+        "price": "₹16",
+        "rating": "4.0",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Paneer Dry Fruit Samosa",
+        "description": "Not available",
+        "price": "₹35",
+        "rating": "4.3",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Two Aalu Paneer Samosa , One Badam Milk + 100 Gram Dhokla",
+        "description": "Not available",
+        "price": "₹160",
+        "rating": "4.4",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Aloo Paneer Samosa",
+        "description": "Not available",
+        "price": "₹28",
+        "rating": "4.2",
+        "image_url": "Not available"
+      },
+      {
+        "name": "Dhokla Online",
+        "description": "Not available",
+        "price": "₹100",
+        "rating": "4.5",
+        "image_url": "Not available"
+      }
+    ]
+  },
+  {
+    "name": "House Of Chefs",
+    "rating": 4.2,
+    "area": "Civil Lines",
+    "cost_for_two": "₹250 for two",
+    "description": "North Indian, Italian",
+    "cuisines": [
+      {
+        "name": "Paneer Paratha",
+        "description": null,
+        "price": 7900,
+        "rating": null,
+        "image_url": "3cb5b5e287d90caa39951f2a1e1e5f08"
+      },
+      {
+        "name": "French Fries",
+        "description": null,
+        "price": 12000,
+        "rating": null,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/d24d60f0-625e-4035-8719-1d7452350184_0cd51ff8-34d6-4c79-95ef-da88676e53f5.jpg"
+      },
+      {
+        "name": "Tawa Roti",
+        "description": null,
+        "price": 2000,
+        "rating": "4.6",
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2025/1/14/2df78f1f-ddcf-41b7-aff0-1f1026389564_74c65c15-7504-4410-9cd0-18c8fb5a4479.JPG"
+      },
+      {
+        "name": "Dal Tadka",
+        "description": null,
+        "price": 22000,
+        "rating": null,
+        "image_url": "FOOD_CATALOG/IMAGES/CMS/2024/8/12/1a63b391-3f29-45dd-8f8c-c20856c0e5a3_54d0240b-57ac-4af9-b509-14c1b8665d3e.jpg"
+      },
+      {
+        "name": "Shahi Paneer",
+        "description": null,
+        "price": 30000,
+        "rating": null,
+        "image_url": null
+      }
+    ]
+  },
+  {
+    "name": "Manoj Restaurant",
+    "rating": 4.3,
+    "area": "Mantola",
+    "cost_for_two": "₹250 for two",
+    "description": "South Indian, North Indian",
+    "cuisines": [
+      {
+        "name": "Masala Dosa",
+        "description": "yummy masala dosa",
+        "price": 10500,
+        "rating": "4.3",
+        "image_url": "wigrprtsbi3ycpgaklga"
+      },
+      {
+        "name": "Butter Paneer Masala Dosa",
+        "description": "Deliciously crispy dosa with a generous spread of fresh butter, spicy chutney and paneer; served with sambhar and chutney.",
+        "price": 14500,
+        "rating": "4.1",
+        "image_url": "kvvehldgxrkhue13r7fx"
+      },
+      {
+        "name": "Sada Dosa",
+        "description": "Tawa- toasted, crispydosas, made from rice batter and coated with butter.",
+        "price": 9000,
+        "rating": "4.2",
+        "image_url": "roq49peb9mdm7q2424jc"
+      },
+      {
+        "name": "Idly Sambhar",
+        "description": "A delectable meal with soft idli, served along with a subtly spiced chutney and the all time favorite sambhar.",
+        "price": 8000,
+        "rating": "4.2",
+        "image_url": "ovfq0b2ukhd26yt4awhp"
+      },
+      {
+        "name": "Sambhar Vada",
+        "description": "A delectable meal with crunchy vada, served along with a subtly spiced chutney and the all time favorite sambhar.",
+        "price": 8500,
+        "rating": "4.2",
+        "image_url": "z0sjqrif6ertcqasj42w"
+      }
+    ]
+  }
+]
