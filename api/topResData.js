@@ -1,4 +1,4 @@
-export const topResData = [
+const topResData = [
   {
     id: "778196",
     name: "Pizza Hut",
@@ -69,3 +69,7 @@ export const topResData = [
     discount: "50% OFF UPTO ₹100",
   },
 ];
+
+export default function handler(req, res) {
+  res.status(200).json(topResData);
+}
