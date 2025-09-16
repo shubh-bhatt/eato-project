@@ -1,4 +1,4 @@
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Showcase from "./components/Showcase";
 import TopResContainer from "./components/TopResContainer";
 import ResDeliveryContainer from "./components/ResDeliveryContainer";
