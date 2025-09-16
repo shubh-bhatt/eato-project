@@ -409,15 +409,17 @@
   margin-top: 50px;
   border-radius: 40px;
   background: linear-gradient(to top, #dddde5, white);
+  /* border: 1px solid red; */
 }
 
 .rating-delivery {
   height: 90%;
-  width: 90%;
+  /* width: 95%; */
   margin-left: 2%;
-  margin-right: 3%;
+  margin-right: 2%;
   margin-bottom: 2%;
   border-radius: 30px;
+  /* border: 1px solid black; */
   border: 1px solid #dddde5;
   background-color: white;
 }
