@@ -3,7 +3,6 @@ import { useEffect, useState } from "react";
 
 const ResDeliveryContainer = () => {
   const [restaurantDelivery, setRestaurantDelivery] = useState([]);
-  const [restaurantMenu, setRestaurantMenu] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -14,7 +13,7 @@ const ResDeliveryContainer = () => {
         const data = await res.json();
         setRestaurantDelivery(data);
       } catch (err) {
-        console.log("Failed to fetch Restaurant Delivery data:", err);
+        console.log("Failed to fetch data:", err);
       }
     };
 

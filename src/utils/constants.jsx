@@ -4,7 +4,7 @@ export const CDN_URL =
 export const LOGO_URL =
   "https://marketplace.canva.com/EAGXsRURT9o/1/0/1600w/canva-yellow-and-brown-kitchen-food-logo-JrzZUwc_CLQ.jpg";
 
-export const CUISINES_IMG =
+export const RES_MENU_IMG =
   "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/";
 
 export const RATING_SVG = (
