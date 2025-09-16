@@ -389,3 +389,96 @@
 .social-links div img:hover {
   cursor: pointer;
 }
+
+.restaurant-menu-container {
+  margin-top: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  height: 500px;
+  border: 1px solid blue;
+}
+
+.restaurant-menu-title h1 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.rating-delivery-container {
+  height: 200px;
+  width: 100%;
+  margin-top: 50px;
+  border-radius: 40px;
+  background: linear-gradient(to top, #dddde5, white);
+}
+
+.rating-delivery {
+  height: 90%;
+  width: 90%;
+  margin-left: 2%;
+  margin-right: 3%;
+  margin-bottom: 2%;
+  border-radius: 30px;
+  border: 1px solid #dddde5;
+  background-color: white;
+}
+
+.ratings-and-price {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
+}
+
+.outlet-and-delivery-time-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.rounded-progress-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.rounded-one {
+  height: 7px;
+  width: 7px;
+  border-radius: 50%;
+  background-color: rgb(196, 196, 196);
+}
+
+.line-for-rounded {
+  height: 23px;
+  width: 1px;
+  background-color: rgb(196, 196, 196);
+}
+
+.rounded-two {
+  height: 7px;
+  width: 7px;
+  border-radius: 50%;
+  background-color: rgb(196, 196, 196);
+}
+
+.outlet-and-time-container div {
+  font-weight: bold;
+}
+
+.outlet-address {
+  display: flex;
+  gap: 5px;
+  padding-bottom: 3px;
+}
+
+.time-delivery-time {
+  padding-top: 3px;
+}

@@ -1,5 +1,6 @@
 import logo from "../assets/logo.png";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [isLogin, setIsLogin] = useState("Login");
@@ -7,11 +8,15 @@ const Navbar = () => {
 
   return (
     <div className="navbar-root">
-      <div className="logo">
-        <img src={logo}></img>
-      </div>
+      <Link to={"/"}>
+        <div className="logo">
+          <img src={logo}></img>
+        </div>
+      </Link>
       <ul className="navbar-links">
-        <li>Home</li>
+        <Link to={"/"}>
+          <li>Home</li>
+        </Link>
         <li>About</li>
         <li>Contact</li>
         <li
