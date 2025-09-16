@@ -1,5 +1,4 @@
 import ResDeliveryCard from "./ResDeliveryCard";
-import { restaurantDelivery } from "../../public/data/restaurantDelivery";
 import { useEffect, useState } from "react";
 
 const ResDeliveryContainer = () => {
