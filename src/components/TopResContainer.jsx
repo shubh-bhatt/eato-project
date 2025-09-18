@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import TopResCard from "./TopResCard";
 import { useEffect, useState } from "react";
 
@@ -24,7 +25,11 @@ const TopResContainer = () => {
       <div className="top-res-title">Top restaurant chains in India</div>
       <div className="top-restaurants">
         {topResData.map((res) => {
-          return <TopResCard key={res.id} res={res} />;
+          return (
+            <Link to={`restaurant/${res.id}`}>
+              <TopResCard key={res.id} res={res} />;
+            </Link>
+          );
         })}
       </div>
       <div className="horizontal-line"></div>
