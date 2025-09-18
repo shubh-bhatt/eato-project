@@ -27,7 +27,7 @@ const TopResContainer = () => {
         {topResData.map((res) => {
           return (
             <Link to={`restaurant/${res.id}`}>
-              <TopResCard key={res.id} res={res} />;
+              <TopResCard key={res.id} res={res} />
             </Link>
           );
         })}
